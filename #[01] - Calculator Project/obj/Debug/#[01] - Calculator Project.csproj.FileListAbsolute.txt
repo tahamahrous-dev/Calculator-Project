@@ -1,0 +1,13 @@
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\bin\Debug\#[01] - Calculator Project.exe.config
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\bin\Debug\#[01] - Calculator Project.exe
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\bin\Debug\#[01] - Calculator Project.pdb
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.csproj.AssemblyReference.cache
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form1.resources
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form2.resources
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form3.resources
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Properties.Resources.resources
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.csproj.GenerateResource.cache
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.csproj.CoreCompileInputs.cache
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.exe
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.pdb
+D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form4.resources
