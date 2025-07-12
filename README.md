@@ -83,11 +83,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Built with 💙 by Taha Mahrous.
 ---
 
-## 📫 Contact
-
-Questions or suggestions?  
-Open an issue or reach out via [GitHub Issues](https://github.com/your-username/calculator-project/issues).
-
----
-
 > **Enjoy calculating! 🚀**
