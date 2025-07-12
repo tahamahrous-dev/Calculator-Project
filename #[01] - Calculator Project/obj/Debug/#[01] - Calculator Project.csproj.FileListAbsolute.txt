@@ -11,3 +11,16 @@ D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator 
 D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.exe
 D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.pdb
 D:\Dr.Mohammed_Abo-Hodowd\Course_14_C# - Level 1\My_Projects\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form4.resources
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\bin\Debug\#[01] - Calculator Project.exe.config
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\bin\Debug\#[01] - Calculator Project.exe
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\bin\Debug\#[01] - Calculator Project.pdb
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.csproj.AssemblyReference.cache
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form1.resources
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form2.resources
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form3.resources
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Form4.resources
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\__01____Calculator_Project.Properties.Resources.resources
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.csproj.GenerateResource.cache
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.csproj.CoreCompileInputs.cache
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.exe
+M:\MyProjectsInProgrammingAdvices\Calculator Project\#[01] - Calculator Project\obj\Debug\#[01] - Calculator Project.pdb

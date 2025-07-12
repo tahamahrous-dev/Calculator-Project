@@ -18,10 +18,12 @@ A modern, user-friendly calculator application built with C# and Windows Forms, 
 
 ## 🖥️ Screenshots
 
-<!--
-Add your screenshots here, for example:
-![Calculator Main Screen](screenshots/calculator_main.png)
--->
+#🧮 Form 1
+![Calculator Form 1](./images/Form1.PNG)
+
+
+#🧮 Form 4
+![Calculator Form 4](./images/Form4.PNG)
 
 ---
 
